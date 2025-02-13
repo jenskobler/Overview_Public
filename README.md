@@ -10,20 +10,7 @@ All public repositories of this account are categorized and stated here.
 
 ### Supervised - Regression
 
-#### Linear Regression
-
-
 ### Supervised - Classification
-
-#### Logistic Regression
-
-#### K-Nearest-Neighbor
-
-#### Support Vector Machine (SVM)
-
-#### Decision Tree Classifier
-
-#### Ensemble methods
 
 #### Projects
 
@@ -31,14 +18,6 @@ All public repositories of this account are categorized and stated here.
 - [Human Activity Recognition](https://github.com/jenskobler/Human_Activity_Recognition) ([Report](https://github.com/jenskobler/Human_Activity_Recognition/blob/main/report.pdf)) (*public*)
 
 ### Unsupervised - Clustering
-
-#### KMeans
-
-#### GMM
-
-#### DBSCAN
-
-#### Mean Shift Clustering
 
 #### Projects
 
