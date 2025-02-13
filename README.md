@@ -4,16 +4,18 @@ This repository/README contains a complete overview of the professional GitHub p
 
 All repositories of this account are categorized and stated here.
 
+Additionally, all repositories are marked as *private* or *public*.
+
 ## Data Engineering
 
 - Extract, Load, Transform (ELT) and Extract Transform Load (ETL)
-  - [Extract Transform Load - Largest Banks](https://github.com/jenskobler/Extract_Transform_Load_Largest_Banks) (private)
-  - [Extract Transform Load (ETL)](https://github.com/jenskobler/ETL_Extract_Transform_Load) (private)
-  - [Extract Transfrom Load GDP Data](https://github.com/jenskobler/Extract_Transfrom_Load_GDP_Data) (private)
+  - [Extract Transform Load - Largest Banks](https://github.com/jenskobler/Extract_Transform_Load_Largest_Banks) (*private*)
+  - [Extract Transform Load (ETL)](https://github.com/jenskobler/ETL_Extract_Transform_Load) (*private*)
+  - [Extract Transfrom Load GDP Data](https://github.com/jenskobler/Extract_Transfrom_Load_GDP_Data) (*private*)
 - Webscraping
-  - [Webscraping Movies](https://github.com/jenskobler/Webscraping_Movies) (private)
+  - [Webscraping Movies](https://github.com/jenskobler/Webscraping_Movies) (*private*)
 - Databases
-  - [Accessing Databases using Python Script](https://github.com/jenskobler/Accessing_Databases) (private)
+  - [Accessing Databases using Python Script](https://github.com/jenskobler/Accessing_Databases) (*private*)
 
 ## Machine Learning
 
@@ -36,8 +38,8 @@ All repositories of this account are categorized and stated here.
 
 #### Projects
 
-- [Titanic Survivors](https://github.com/jenskobler/Titanic_Survivors) ([Report](https://github.com/jenskobler/Titanic_Survivors/blob/main/report.pdf)) (public)
-- [Human Activity Recognition](https://github.com/jenskobler/Human_Activity_Recognition) ([Report](https://github.com/jenskobler/Human_Activity_Recognition/blob/main/report.pdf)) (public)
+- [Titanic Survivors](https://github.com/jenskobler/Titanic_Survivors) ([Report](https://github.com/jenskobler/Titanic_Survivors/blob/main/report.pdf)) (*public*)
+- [Human Activity Recognition](https://github.com/jenskobler/Human_Activity_Recognition) ([Report](https://github.com/jenskobler/Human_Activity_Recognition/blob/main/report.pdf)) (*public*)
 
 ### Unsupervised - Clustering
 
@@ -51,7 +53,7 @@ All repositories of this account are categorized and stated here.
 
 #### Projects
 
-- [Tortoise Image Compression](https://github.com/jenskobler/Tortoise_Image_Compression) ([Report](https://github.com/jenskobler/Tortoise_Image_Compression/blob/main/report.pdf)) (public)
+- [Tortoise Image Compression](https://github.com/jenskobler/Tortoise_Image_Compression) ([Report](https://github.com/jenskobler/Tortoise_Image_Compression/blob/main/report.pdf)) (*public*)
 
 ### Unsupervised - Dimensionality Reduction
 
@@ -63,7 +65,7 @@ All repositories of this account are categorized and stated here.
 
 ### Projects
 
-- [Ship Classification using a Deep Neural Network](https://github.com/jenskobler/Ship_Classification) ([Report](https://github.com/jenskobler/Ship_Classification/blob/main/report.pdf)) (public)
+- [Ship Classification using a Deep Neural Network](https://github.com/jenskobler/Ship_Classification) ([Report](https://github.com/jenskobler/Ship_Classification/blob/main/report.pdf)) (*public*)
 
 ## Projects
 
