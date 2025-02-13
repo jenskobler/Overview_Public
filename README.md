@@ -1,22 +1,16 @@
 # Overview of public repositories
 
-This repository/README contains a complete overview of the public repositories.
+This repository/README contains a complete overview of the public repositories of the professional GitHub profile of Jens Kobler.
 
-All repositories of this account are categorized and stated here.
+All public repositories of this account are categorized and stated here.
 
-Additionally, all repositories are marked as *private* or *public*.
 
 ## Data Engineering
 
 - Extract, Load, Transform (ELT) and Extract Transform Load (ETL)
-  - [Extract Transform Load - Largest Banks](https://github.com/jenskobler/Extract_Transform_Load_Largest_Banks) (*private*)
-  - [Extract Transform Load (ETL)](https://github.com/jenskobler/ETL_Extract_Transform_Load) (*private*)
-  - [Extract Transfrom Load GDP Data](https://github.com/jenskobler/Extract_Transfrom_Load_GDP_Data) (*private*)
 - Webscraping
-  - [Webscraping Movies](https://github.com/jenskobler/Webscraping_Movies) (*private*)
 - Databases
-  - [Accessing Databases using Python Script](https://github.com/jenskobler/Accessing_Databases) (*private*)
-
+- 
 ## Machine Learning
 
 ### Supervised - Regression
@@ -70,3 +64,7 @@ Additionally, all repositories are marked as *private* or *public*.
 ## Projects
 
 - [Recommendation Engine](https://github.com/jenskobler/Recommendation_Engine) (planed) (public)
+
+
+# Link to [Overview of private repositories](https://github.com/jenskobler/Overview_Private)
+
