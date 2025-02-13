@@ -1,6 +1,6 @@
-# Overview
+# Overview of public repositories
 
-This repository/README contains a complete overview of the professional GitHub profile of Jens Kobler. 
+This repository/README contains a complete overview of the public repositories.
 
 All repositories of this account are categorized and stated here.
 
