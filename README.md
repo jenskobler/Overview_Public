@@ -1,10 +1,8 @@
 # Overview of public repositories
 
-This repository/README contains a complete overview of the public repositories of the professional GitHub profile of Jens Kobler.
+This repository/README contains a complete overview of the public repositories.
 
 All public repositories of this account are categorized and stated here.
-
-
 
 ## Machine Learning
 
