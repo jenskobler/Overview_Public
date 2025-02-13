@@ -5,12 +5,7 @@ This repository/README contains a complete overview of the public repositories o
 All public repositories of this account are categorized and stated here.
 
 
-## Data Engineering
 
-- Extract, Load, Transform (ELT) and Extract Transform Load (ETL)
-- Webscraping
-- Databases
-- 
 ## Machine Learning
 
 ### Supervised - Regression
@@ -65,6 +60,11 @@ All public repositories of this account are categorized and stated here.
 
 - [Recommendation Engine](https://github.com/jenskobler/Recommendation_Engine) (planed) (public)
 
+## Data Engineering
+
+- Extract, Load, Transform (ELT) and Extract Transform Load (ETL)
+- Webscraping
+- Databases
 
 # Link to [Overview of private repositories](https://github.com/jenskobler/Overview_Private)
 
