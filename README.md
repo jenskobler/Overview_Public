@@ -51,7 +51,7 @@ All repositories of this account are categorized and stated here.
 
 #### Projects
 
-- [Tortoise Image Compression](https://github.com/jenskobler/Tortoise_Image_Compression)
+- [Tortoise Image Compression](https://github.com/jenskobler/Tortoise_Image_Compression)([Report](https://github.com/jenskobler/Tortoise_Image_Compression/blob/main/report.pdf)
 
 ### Unsupervised - Dimensionality Reduction
 
