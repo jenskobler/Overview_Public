@@ -36,7 +36,7 @@ All repositories of this account are categorized and stated here.
 
 #### Projects
 
-- [Titanic Survivors](https://github.com/jenskobler/Titanic_Survivors)
+- [Titanic Survivors](https://github.com/jenskobler/Titanic_Survivors) ([Report](https://github.com/jenskobler/Titanic_Survivors/blob/main/report.pdf))
 - [Human Activity Recognition](https://github.com/jenskobler/Human_Activity_Recognition) ([Report](https://github.com/jenskobler/Human_Activity_Recognition/blob/main/report.pdf))
 
 ### Unsupervised - Clustering
