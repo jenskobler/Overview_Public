@@ -66,5 +66,6 @@ All public repositories of this account are categorized and stated here.
 - Webscraping
 - Databases
 
-# Link to [Overview of private repositories](https://github.com/jenskobler/Overview_Private)
+--------------------------
+Link to [Overview of private repositories](https://github.com/jenskobler/Overview_Private)
 
