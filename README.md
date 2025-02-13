@@ -60,3 +60,7 @@ All repositories of this account are categorized and stated here.
 
 
 ## Deep Learning
+
+### Projects
+
+- [Ship Classification using a Deep Neural Network](https://github.com/jenskobler/Ship_Classification) ([Report](https://github.com/jenskobler/Ship_Classification/blob/main/report.pdf))
