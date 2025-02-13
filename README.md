@@ -64,3 +64,7 @@ All repositories of this account are categorized and stated here.
 ### Projects
 
 - [Ship Classification using a Deep Neural Network](https://github.com/jenskobler/Ship_Classification) ([Report](https://github.com/jenskobler/Ship_Classification/blob/main/report.pdf))
+
+## Projects
+
+- [Recommendation Engine](https://github.com/jenskobler/Recommendation_Engine) (planed)
