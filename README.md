@@ -35,7 +35,7 @@ All public repositories of this account are categorized and stated here.
 
 ## Projects
 
-- [Recommendation Engine](https://github.com/jenskobler/Recommendation_Engine) (planed) (public)
+- [Recommendation Engine](https://github.com/jenskobler/Movie_Recommendation_Engine) (planed) (public)
 
 ## Data Engineering
 
