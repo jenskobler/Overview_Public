@@ -36,7 +36,7 @@ All public repositories of this account are categorized and stated here.
 ## Projects
 
 - [Movie Recommendation Engine - Report](https://github.com/jenskobler/Movie_Recommendation_Engine/blob/main/Report_first_version_01.pdf) ([Repository](https://github.com/jenskobler/Movie_Recommendation_Engine)) (*public*)
-
+- [Poker Game](https://github.com/jenskobler/Poker_Game) (*public*)
 ## Data Engineering
 
 - Extract, Load, Transform (ELT) and Extract Transform Load (ETL)
